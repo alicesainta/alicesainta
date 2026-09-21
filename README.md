@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Status-Coding-success?style=for-the-badge"/>
 </p>
 
-<img src="https://cards.jerryz.com.cn/api?img=5&date=2026-12-31&str=2026%E5%B9%B4%E6%9C%AB&discord=https%3A%2F%2Fdiscord.gg%2FfrQShpVN&twitter=AliceSaint5883" width="75%">
+<img src="https://cards.jerryz.com.cn/api?img=2&date=2026-12-31&str=2026%E5%B9%B4%E6%9C%AB&discord=https%3A%2F%2Fdiscord.gg%2FfrQShpVN&twitter=AliceSaint5883" width="75%">
 
 </div>
 
